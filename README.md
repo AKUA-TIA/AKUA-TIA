@@ -157,25 +157,28 @@ I'm a **Data & Automation Specialist** passionate about transforming raw data in
 
 ## 💡 My Approach
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/64/000000/analytics.png" alt="Analytics"/>
-      <br><b>Data-Driven</b>
-      <br>Every decision backed by solid data analysis
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/64/000000/automation.png" alt="Automation"/>
-      <br><b>Automation First</b>
-      <br>If it can be automated, it should be
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/64/000000/cloud.png" alt="Cloud"/>
-      <br><b>Cloud Native</b>
-      <br>Building for scale and resilience
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px">
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60" height="60">
+        <h4>📊 Data-Driven</h4>
+        <p><sub>Every decision backed by solid data analysis</sub></p>
+      </td>
+      <td align="center" style="padding: 20px">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60" height="60">
+        <h4>🤖 Automation First</h4>
+        <p><sub>If it can be automated, it should be</sub></p>
+      </td>
+      <td align="center" style="padding: 20px">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60" height="60">
+        <h4>☁️ Cloud Native</h4>
+        <p><sub>Building for scale and resilience</sub></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
