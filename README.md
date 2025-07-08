@@ -1,28 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=Hi+👋+I'm+Katia+Atlântico;Data+Engineer+%7C+Data+Scientist;Automation+Specialist+%7C+Cloud+Architect" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=katiaatlantico&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/katiaatlantico?tab=followers">
-    <img src="https://img.shields.io/github/followers/katiaatlantico?label=Followers&style=for-the-badge&color=ff69b4" alt="Followers" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a **Data & Automation Specialist** passionate about transforming raw data into powerful insights and building intelligent automation solutions.
-
+**Data & Automation Specialist** Team 
 - 🏗️ **Data Engineer** - Architecting robust data infrastructures
 - 📊 **Data Analyst** - Turning data into strategic decisions
 - 🧪 **Data Scientist** - Applying ML/AI for business value
